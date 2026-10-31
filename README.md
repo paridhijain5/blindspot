@@ -50,11 +50,6 @@ Next.js App Router, TypeScript, Tailwind CSS, Gemini/Groq JSON APIs, Cheerio,
 JSDOM, Mozilla Readability, pdf-parse, chrono-node, Fuse.js, and Zod. There is
 no database; live results are kept in the current browser session.
 
-## Screenshots
-
-- `![Landing page](./screenshots/landing.png)` — replace with a landing-page capture.
-- `![Survey results](./screenshots/results.png)` — replace with a results capture.
-
 ## Setup
 
 Use Node.js 22.6 or newer and npm.
