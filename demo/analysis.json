@@ -1,0 +1,571 @@
+{
+  "question": "What should I verify before applying for a scholarship on the National Scholarship Portal (NSP) for 2026-27?",
+  "dimensions": [
+    {
+      "key": "eligibility_criteria",
+      "label": "Eligibility criteria (caste, income, academic, domicile, etc.)",
+      "importance": 5,
+      "why": "Missing or mis‑interpreting eligibility can lead to disqualification and wasted effort"
+    },
+    {
+      "key": "required_documents",
+      "label": "Required documents (marksheets, income proof, caste certificate, Aadhaar, etc.)",
+      "importance": 5,
+      "why": "Incomplete or incorrect documents cause application rejection or delays"
+    },
+    {
+      "key": "application_deadline_and_cycle_dates",
+      "label": "Application deadline and current cycle dates for 2026‑27",
+      "importance": 5,
+      "why": "Missing the deadline results in loss of the scholarship opportunity"
+    },
+    {
+      "key": "bank_account_and_aadhaar_linkage",
+      "label": "Verification of bank account details and Aadhaar linkage on NSP",
+      "importance": 4,
+      "why": "Incorrect bank/Aadhaar info leads to non‑payment of funds"
+    },
+    {
+      "key": "official_application_process_steps",
+      "label": "Official step‑by‑step process on NSP (registration, profile completion, document upload, submission)",
+      "importance": 4,
+      "why": "Skipping a step or wrong sequence can cause application failure"
+    },
+    {
+      "key": "fee_or_charges_and_funding_amounts",
+      "label": "Any application fees, processing charges, and scholarship amount details",
+      "importance": 3,
+      "why": "Unexpected fees can affect budgeting; knowing amount helps eligibility assessment"
+    },
+    {
+      "key": "renewal_or_continuation_conditions",
+      "label": "Renewal/continuation requirements for existing scholarship holders",
+      "importance": 3,
+      "why": "Current scholars must meet continuation criteria to retain funding"
+    },
+    {
+      "key": "contact_and_appeal_mechanisms",
+      "label": "Contact details, helpdesk, and appeal routes for queries or rejections",
+      "importance": 3,
+      "why": "Timely clarification or appeal can resolve issues before deadlines"
+    }
+  ],
+  "sources": [
+    {
+      "id": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "url": "https://abvgiet.ac.in/storage/app/media/Scholarship%202.pdf",
+      "title": "Scholarship%202.pdf",
+      "text": "arship Portal (NSP) for the Academic Year 2026-27. no 3As per the information available on the NSP, the last date for submission of scholarship applications is 31 October 2026. Eligible students who have not yet applied for any scholarship scheme are advised to submit their a",
+      "fetchedAt": "2026-10-31T08:09:09.543Z",
+      "retrievalMethod": "jina",
+      "tier": "official",
+      "isPdf": true
+    },
+    {
+      "id": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "url": "https://www.sahildubey.com/2026/08/nsp-scholarship-otr-registration.html",
+      "title": "NSP Scholarship 2026-27: OTR Registration, Eligibility, Documents, Deadline and Status Check",
+      "text": "-27 from 1 June 2026. Students need a 14-digit One Time Registration number based on Aadhaar or Aadhaar Enrolment ID before applying. There is no single NSP last date for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover your OTR, use the official eligibility checker, open the live scheme list, read the specification o\n\n[...]\n\nation number based on Aadhaar or Aadhaar Enrolment ID before applying. There is no single NSP last date for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover your OTR, use the official eligibility checker, open the live scheme list, read the specification of your chosen scholarship and submit before that scheme's own",
+      "fetchedAt": "2026-10-31T08:09:09.551Z",
+      "retrievalMethod": "direct",
+      "tier": "unknown",
+      "isPdf": false,
+      "publishedDate": "2026-08-08T18:01:00.000Z"
+    },
+    {
+      "id": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "url": "https://schemesinindia.in/blog/nsp-national-scholarship-portal-2026-27-apply-guide",
+      "title": "NSP Scholarship 2026-27 — Apply Online, Eligibility, Last Date & Payment Status at scholarships.gov.in",
+      "text": "📅 Renewal Applications Open: First week of July 2026 📅 Fresh Applications Open: Mid-July 2026 📅 Application Last Date: October 31, 2026 (typically — check scholarships.gov.in for exact date) 📅 Institute Verification Deadline: November 15, 2026 (approximately) 📅 Scholarship Payment: Decem\n\n[...]\n\n� Application Last Date: October 31, 2026 (typically — check scholarships.gov.in for exact date) 📅 Institute Verification Deadline: November 15, 2026 (approximately) 📅 Scholarship Payment: December 2026 – February 2027 (first installment after verification) Freque\n\n[...]\n\nn from the first week of July. Missing the window means waiting a full year. ⚡ Key Facts at a GlanceApplication Window: July – October 2026 (fresh)Renewal Applications: July – September 2026Maximum Amount: ₹36,200/year (post-matric hostellers)Offi\n\n[...]\n\nnt)Scholarship DBT paymentAadhaar-linked, active account Important NSP Scholarship Dates 2026-27 📅 Renewal Applications Open: First week of July 2026 📅 Fresh Applications Open: Mid-July 2026 📅 Application Last Date: October 31, 2026 (typically — c\n\n[...]\n\nority Scholarship for students from Muslim, Christian, Sikh, Buddhist, Jain, and Parsi communities. Unlike many government schemes, NSP scholarships are completely free to apply and the money goes directly to your bank account via DBT — no middlemen or agents needed. This guide covers all major NSP scholarships for 2026-27, their eligibility criteria, amounts, appl\n\n[...]\n\nC, ST, OBC, minority communities, and persons with disabilities should prepare their documents now. Renewal applications for continuing students open even earlier — check scholarships.gov.in from the first week of July. Missing the window means waiting a full year. ⚡ Key Facts at a GlanceApplication Window: July – Oct",
+      "fetchedAt": "2026-10-31T08:09:09.553Z",
+      "retrievalMethod": "direct",
+      "tier": "unknown",
+      "isPdf": false,
+      "publishedDate": "2026-05-30T06:30:00.000Z"
+    }
+  ],
+  "claims": [
+    {
+      "id": "34ab6d7d-a8e9-49f3-a060-0f5b51497c18",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "The last date for submission of scholarship applications for Academic Year 2026-27 is 31 October 2026.",
+      "quote": "the last date for submission of scholarship applications is 31 October 2026.",
+      "valueType": "date",
+      "rawValue": "31 October 2026",
+      "normalizedValue": "2026-10-31",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "1140705b-a70b-40ea-9da0-5d4717b5ca8f",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "The source lists 31 October 2026 in its deadline information.",
+      "quote": "aar Enrolment ID before applying. There is no single NSP last date for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover",
+      "valueType": "date",
+      "rawValue": "31 October 2026",
+      "normalizedValue": "2026-10-31",
+      "quoteVerified": true
+    },
+    {
+      "id": "09e5a1fd-7a87-4a55-af80-f05c8dbd7949",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "The source lists 31 August 2026 in its deadline information.",
+      "quote": "ate for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover your OTR, use the official eligibility checker, open the live",
+      "valueType": "date",
+      "rawValue": "31 August 2026",
+      "normalizedValue": "2026-08-31",
+      "quoteVerified": true
+    },
+    {
+      "id": "f84721ad-883f-4d50-8151-70354cd1ca24",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "Application last date for fresh 2026‑27 applications is 31 October 2026.",
+      "quote": "Application Last Date: October 31, 2026 (typically — check scholarships.gov.in for exact date)",
+      "valueType": "date",
+      "rawValue": "2026-10-31",
+      "normalizedValue": "2026-10-31",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "0996c825-066f-41da-a794-0b736f1b481c",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "Institute verification deadline is approximately 15 November 2026.",
+      "quote": "Institute Verification Deadline: November 15, 2026 (approximately)",
+      "valueType": "date",
+      "rawValue": "2026-11-15",
+      "normalizedValue": "2026-11-15",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "52eb070d-a3fb-41b4-a124-5c80a7bf534f",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "Fresh applications open in mid‑July 2026 and run until October 2026.",
+      "quote": "Application Window: July – October 2026 (fresh)",
+      "valueType": "text",
+      "rawValue": "July‑October 2026",
+      "normalizedValue": "july‑october 2026",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "1f911c24-1e4c-4242-a433-2542d24bc5dc",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "statement": "Renewal applications open in the first week of July 2026.",
+      "quote": "Renewal Applications Open: First week of July 2026",
+      "valueType": "date",
+      "rawValue": "2026-07-01/2026-07-07",
+      "normalizedValue": "2026-07-01",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "0ea6cdf3-6218-4154-9033-6ae204392b40",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "fee_or_charges_and_funding_amounts",
+      "statement": "Applying for NSP scholarships is completely free; there are no application fees.",
+      "quote": "Unlike many government schemes, NSP scholarships are completely free to apply and the money goes directly to your bank account via DBT — no middlemen or agents needed.",
+      "valueType": "boolean",
+      "rawValue": "false",
+      "normalizedValue": "false",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    },
+    {
+      "id": "67163220-29fc-4e7c-8627-0dfeaf28e562",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "dimensionKey": "renewal_or_continuation_conditions",
+      "statement": "Renewal applications open in the first week of July 2026, earlier than fresh applications.",
+      "quote": "Renewal applications for continuing students open even earlier — check scholarships.gov.in from the first week of July.",
+      "valueType": "date",
+      "rawValue": "2026-07-01/2026-07-07",
+      "normalizedValue": "2026-07-01",
+      "mentionedCycle": "2026-27",
+      "quoteVerified": true
+    }
+  ],
+  "cells": [
+    {
+      "dimensionKey": "eligibility_criteria",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "eligibility_criteria",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "eligibility_criteria",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "required_documents",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "required_documents",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "required_documents",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "conflicting",
+      "claimIds": [
+        "34ab6d7d-a8e9-49f3-a060-0f5b51497c18"
+      ]
+    },
+    {
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "conflicting",
+      "claimIds": [
+        "1140705b-a70b-40ea-9da0-5d4717b5ca8f",
+        "09e5a1fd-7a87-4a55-af80-f05c8dbd7949"
+      ]
+    },
+    {
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "conflicting",
+      "claimIds": [
+        "f84721ad-883f-4d50-8151-70354cd1ca24",
+        "0996c825-066f-41da-a794-0b736f1b481c",
+        "52eb070d-a3fb-41b4-a124-5c80a7bf534f",
+        "1f911c24-1e4c-4242-a433-2542d24bc5dc"
+      ]
+    },
+    {
+      "dimensionKey": "bank_account_and_aadhaar_linkage",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "bank_account_and_aadhaar_linkage",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "bank_account_and_aadhaar_linkage",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "official_application_process_steps",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "official_application_process_steps",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "official_application_process_steps",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "fee_or_charges_and_funding_amounts",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "fee_or_charges_and_funding_amounts",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "fee_or_charges_and_funding_amounts",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "covered",
+      "claimIds": [
+        "0ea6cdf3-6218-4154-9033-6ae204392b40"
+      ]
+    },
+    {
+      "dimensionKey": "renewal_or_continuation_conditions",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "renewal_or_continuation_conditions",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "renewal_or_continuation_conditions",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "covered",
+      "claimIds": [
+        "67163220-29fc-4e7c-8627-0dfeaf28e562"
+      ]
+    },
+    {
+      "dimensionKey": "contact_and_appeal_mechanisms",
+      "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "contact_and_appeal_mechanisms",
+      "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+      "status": "missing",
+      "claimIds": []
+    },
+    {
+      "dimensionKey": "contact_and_appeal_mechanisms",
+      "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+      "status": "missing",
+      "claimIds": []
+    }
+  ],
+  "findings": [
+    {
+      "id": "conflict:application_deadline_and_cycle_dates:34ab6d7d-a8e9-49f3-a060-0f5b51497c18:09e5a1fd-7a87-4a55-af80-f05c8dbd7949",
+      "kind": "conflict",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "severity": 5,
+      "summary": "Dates differ across sources.",
+      "evidence": [
+        {
+          "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+          "quote": "the last date for submission of scholarship applications is 31 October 2026."
+        },
+        {
+          "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+          "quote": "ate for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover your OTR, use the official eligibility checker, open the live"
+        }
+      ],
+      "label": "sourced",
+      "suggestedTiebreaker": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92"
+    },
+    {
+      "id": "conflict:application_deadline_and_cycle_dates:09e5a1fd-7a87-4a55-af80-f05c8dbd7949:f84721ad-883f-4d50-8151-70354cd1ca24",
+      "kind": "conflict",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "severity": 5,
+      "summary": "Dates differ across sources.",
+      "evidence": [
+        {
+          "sourceId": "1919eba8-97bf-4613-9758-d0c5a9d6ff69",
+          "quote": "ate for every scholarship. As checked on 8 August 2026, several schemes show 31 October 2026, some pre-matric and school-level schemes show 31 August 2026, and a few schemes are still marked not yet opened. First generate or recover your OTR, use the official eligibility checker, open the live"
+        },
+        {
+          "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+          "quote": "Application Last Date: October 31, 2026 (typically — check scholarships.gov.in for exact date)"
+        }
+      ],
+      "label": "sourced"
+    },
+    {
+      "id": "outdated:application_deadline_and_cycle_dates:dcf93251-2a6e-4d7b-83fc-59faa0ebae92:date-unavailable",
+      "kind": "outdated",
+      "dimensionKey": "application_deadline_and_cycle_dates",
+      "severity": 5,
+      "summary": "date not available",
+      "evidence": [
+        {
+          "sourceId": "dcf93251-2a6e-4d7b-83fc-59faa0ebae92",
+          "quote": "the last date for submission of scholarship applications is 31 October 2026."
+        }
+      ],
+      "label": "unknown"
+    },
+    {
+      "id": "gap:eligibility_criteria",
+      "kind": "gap",
+      "dimensionKey": "eligibility_criteria",
+      "severity": 5,
+      "summary": "Not found in the 3 sources reviewed",
+      "evidence": [],
+      "label": "unknown"
+    },
+    {
+      "id": "gap:required_documents",
+      "kind": "gap",
+      "dimensionKey": "required_documents",
+      "severity": 5,
+      "summary": "Not found in the 3 sources reviewed",
+      "evidence": [],
+      "label": "unknown"
+    },
+    {
+      "id": "gap:bank_account_and_aadhaar_linkage",
+      "kind": "gap",
+      "dimensionKey": "bank_account_and_aadhaar_linkage",
+      "severity": 4,
+      "summary": "Not found in the 3 sources reviewed",
+      "evidence": [],
+      "label": "unknown"
+    },
+    {
+      "id": "gap:official_application_process_steps",
+      "kind": "gap",
+      "dimensionKey": "official_application_process_steps",
+      "severity": 4,
+      "summary": "Not found in the 3 sources reviewed",
+      "evidence": [],
+      "label": "unknown"
+    },
+    {
+      "id": "unanswered:fee_or_charges_and_funding_amounts",
+      "kind": "unanswered",
+      "dimensionKey": "fee_or_charges_and_funding_amounts",
+      "severity": 2,
+      "summary": "no official source covers this",
+      "evidence": [
+        {
+          "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+          "quote": "Unlike many government schemes, NSP scholarships are completely free to apply and the money goes directly to your bank account via DBT — no middlemen or agents needed."
+        }
+      ],
+      "label": "unknown"
+    },
+    {
+      "id": "unanswered:renewal_or_continuation_conditions",
+      "kind": "unanswered",
+      "dimensionKey": "renewal_or_continuation_conditions",
+      "severity": 2,
+      "summary": "no official source covers this",
+      "evidence": [
+        {
+          "sourceId": "b1f1d17f-db83-4181-b3ef-a2a0cf5ce928",
+          "quote": "Renewal applications for continuing students open even earlier — check scholarships.gov.in from the first week of July."
+        }
+      ],
+      "label": "unknown"
+    },
+    {
+      "id": "gap:contact_and_appeal_mechanisms",
+      "kind": "gap",
+      "dimensionKey": "contact_and_appeal_mechanisms",
+      "severity": 3,
+      "summary": "Not found in the 3 sources reviewed",
+      "evidence": [],
+      "label": "unknown"
+    }
+  ],
+  "checklist": [
+    {
+      "id": "check-1",
+      "action": "Confirm the exact application deadline date for each scholarship scheme",
+      "reason": "Sources disagree on whether the deadline is 31 October 2026 for all schemes or 31 August 2026 for some pre‑matric and school‑level schemes",
+      "relatedFindingIds": [
+        "conflict:application_deadline_and_cycle_dates:34ab6d7d-a8e9-49f3-a060-0f5b51497c18:09e5a1fd-7a87-4a55-af80-f05c8dbd7949",
+        "conflict:application_deadline_and_cycle_dates:09e5a1fd-7a87-4a55-af80-f05c8dbd7949:f84721ad-883f-4d50-8151-70354cd1ca24",
+        "outdated:application_deadline_and_cycle_dates:dcf93251-2a6e-4d7b-83fc-59faa0ebae92:date-unavailable"
+      ],
+      "priority": 10,
+      "officialSourceHint": "scholarships.gov.in (official NSP portal)"
+    },
+    {
+      "id": "check-2",
+      "action": "Verify eligibility criteria for the 2026‑27 NSP scholarships",
+      "reason": "No eligibility information was found in the reviewed sources",
+      "relatedFindingIds": [
+        "gap:eligibility_criteria"
+      ],
+      "priority": 9,
+      "officialSourceHint": "scholarships.gov.in – eligibility checker"
+    },
+    {
+      "id": "check-3",
+      "action": "Identify the required supporting documents for application",
+      "reason": "Required‑documents information is missing from the sources consulted",
+      "relatedFindingIds": [
+        "gap:required_documents"
+      ],
+      "priority": 9,
+      "officialSourceHint": "scholarships.gov.in – document checklist"
+    },
+    {
+      "id": "check-4",
+      "action": "Confirm if linking a bank account and Aadhaar is mandatory",
+      "reason": "No source addressed bank‑account/Aadhaar linkage requirements",
+      "relatedFindingIds": [
+        "gap:bank_account_and_aadhaar_linkage"
+      ],
+      "priority": 8,
+      "officialSourceHint": "scholarships.gov.in – account linking guidelines"
+    },
+    {
+      "id": "check-5",
+      "action": "Obtain the official step‑by‑step application process",
+      "reason": "Process steps were not detailed in the reviewed material",
+      "relatedFindingIds": [
+        "gap:official_application_process_steps"
+      ],
+      "priority": 8,
+      "officialSourceHint": "scholarships.gov.in – application flow"
+    },
+    {
+      "id": "check-6",
+      "action": "Find contact details and appeal mechanisms for the NSP",
+      "reason": "Contact and appeal information was not located in the sources",
+      "relatedFindingIds": [
+        "gap:contact_and_appeal_mechanisms"
+      ],
+      "priority": 6,
+      "officialSourceHint": "scholarships.gov.in – helpdesk / grievance portal"
+    },
+    {
+      "id": "check-7",
+      "action": "Clarify any fees, charges, or funding amounts associated with the scholarships",
+      "reason": "Only a general statement that applications are free was found; exact funding amounts are unclear",
+      "relatedFindingIds": [
+        "unanswered:fee_or_charges_and_funding_amounts"
+      ],
+      "priority": 4,
+      "officialSourceHint": "scholarships.gov.in – scheme‑wise funding details"
+    },
+    {
+      "id": "check-8",
+      "action": "Determine renewal or continuation conditions for ongoing scholarship recipients",
+      "reason": "Renewal conditions were mentioned only in passing and lack official detail",
+      "relatedFindingIds": [
+        "unanswered:renewal_or_continuation_conditions"
+      ],
+      "priority": 4,
+      "officialSourceHint": "scholarships.gov.in – renewal guidelines"
+    }
+  ],
+  "completenessScore": 7,
+  "scoreExplanation": "0 of 8 research dimensions are covered by an official, dated source; 3 more have partial evidence only from non-official and/or undated sources; 5 are not covered. The importance-weighted score gives partial evidence half credit. 2 unresolved conflicts reduce it by 10 points.",
+  "droppedClaimCount": 14,
+  "emailDraft": "Subject: Clarification Request: NSP Scholarship 2026‑27 Application Details\n\nDear Sir/Madam,\n\nI am preparing my application for the National Scholarship Portal (NSP) for the 2026‑27 academic year. To ensure my application is complete and submitted on time, I would appreciate clarification on the following points:\n\n1. What is the exact application deadline for each scholarship scheme? Some sources indicate 31 October 2026, while others mention 31 August 2026 for certain pre‑matric or school‑level schemes.\n2. Could you provide the official eligibility criteria for the 2026‑27 scholarships?\n3. What supporting documents are required for a complete application?\n4. Is linking a bank account and Aadhaar mandatory for all applicants?\n5. Could you outline the official step‑by‑step application process on the NSP portal?\n6. What are the official contact details and appeal mechanisms for applicants who encounter issues?\n7. Are there any fees, charges, or specific funding amounts associated with each scholarship scheme?\n8. What are the renewal or continuation conditions for students who wish to retain their scholarship in subsequent years?\n\nYour assistance will help me and other prospective applicants to comply fully with the official requirements.\n\nThank you for your time and support.\n\nSincerely,\n[Your Name]\n[Your Contact Information]",
+  "modelUsed": "Groq: openai/gpt-oss-120b",
+  "generatedAt": "2026-10-31T08:09:49.763Z"
+}

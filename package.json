@@ -6,15 +6,28 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test:verify": "node scripts/test-verify.ts",
+    "test:normalize": "node scripts/test-normalize.ts",
+    "test:analyze": "node scripts/test-analyze.ts",
+    "test:cache": "node scripts/test-cache.ts",
+    "demo:build": "node scripts/buildDemo.ts"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "cheerio": "^1.2.0",
+    "chrono-node": "^2.10.3",
+    "fuse.js": "^7.5.0",
+    "jsdom": "^30.1.3",
     "next": "16.4.3",
+    "pdf-parse": "^2.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
+    "@types/jsdom": "^30.0.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

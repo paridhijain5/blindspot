@@ -30,8 +30,19 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files
 .env*
+!.env.example
+/.env.local
+/.cache/
+!/.cache/
+/.cache/*
+!/.cache/demo/
+/.cache/demo/*
+!/.cache/demo/*.json
+
+# Public, precomputed sample data is intentionally committed.
+!/demo/
 
 # vercel
 .vercel

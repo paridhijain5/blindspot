@@ -1,0 +1,1 @@
+{"data":{"decisions":[{"pairId":"eligibility_criteria:5d9807b6-007e-48e8-8996-fc08a9649e21:c0942bd5-f570-4613-a267-a20935a33121","decision":"consistent"}]},"modelUsed":"Groq: openai/gpt-oss-120b","fallbackNotice":"Gemini was unavailable; switched to Groq."}
